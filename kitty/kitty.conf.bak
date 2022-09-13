@@ -1,0 +1,14 @@
+# BEGIN_KITTY_THEME
+# One Dark
+include current-theme.conf
+# END_KITTY_THEME
+font_family Fira Code
+bold_font Fira Code Bold
+
+hide_window_decorations yes
+confirm_os_window_close 0
+enable_audio_bell no
+
+remember_window_size no
+initial_window_width 960
+initial_window_height 480
