@@ -1,0 +1,8 @@
+theme = "gruvbox"
+
+
+[editor.file-picker]
+hidden = false
+
+[keys.insert]
+j = { k = "normal_mode" } # Maps `jk` to exit insert mode

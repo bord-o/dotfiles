@@ -1,0 +1,7 @@
+# in <config_dir>/helix/languages.toml
+
+[[language]]
+name = "sml"
+comment-token = "(* "
+language-server = { command =  "millet" }
+roots = ["sources.cm"]
